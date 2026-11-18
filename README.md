@@ -308,8 +308,8 @@ del paquete principal de JavaScript.
 
 ## Autores
 
-Javier Steeven Herrera Pacheco
-Jeferson David Comba Moreno
+- Javier Steeven Herrera Pacheco
+- Jeferson David Comba Moreno
 
 Proyecto de grado - Ingeniería de Sistemas.
 
